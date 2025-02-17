@@ -1,6 +1,6 @@
 <?php
-$DB_HOST = 'your-rds-endpoint';
-$DB_USER = 'your-db-username';
-$DB_PASS = 'your-db-password';
-$DB_NAME = 'your-database-name';
+$DB_HOST = 'mydevopsdb.ci7k2gkayezg.us-east-1.rds.amazonaws.com';
+$DB_USER = 'admin';
+$DB_PASS = 'admin123';
+$DB_NAME = 'mydevopsdb';
 ?>
