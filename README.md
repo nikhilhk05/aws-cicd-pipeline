@@ -11,7 +11,8 @@ This project demonstrates a fully automated CI/CD pipeline using AWS native serv
 This setup ensures that every push to the GitHub repository triggers an automated build, test, and deployment process using AWS services. The goal is to demonstrate a professional DevOps pipeline in a real-world scenario.  
 
 ## **Architecture**  
-![CI/CD Architecture Diagram](#) *(To be added later)*  
+![image](https://github.com/user-attachments/assets/ff3b8e3a-c2b0-4d6e-9052-f979b6dd7aa4)
+  
 
 ## **Technologies Used**  
 - AWS CodeCommit, CodeBuild, CodeDeploy, Elastic Beanstalk  
